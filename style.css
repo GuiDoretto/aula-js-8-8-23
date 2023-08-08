@@ -1,0 +1,9 @@
+body{
+    background-color: #121212;
+}
+
+h1, p, ul {
+    font-size: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: white;
+}
